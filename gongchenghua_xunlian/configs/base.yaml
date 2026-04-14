@@ -1,0 +1,19 @@
+# TODO: Fill this config according to the training/experiment plan
+seed: 42
+experiment_name: todo
+
+# data:
+#   name:
+#   path:
+
+# model:
+#   name:
+#   params:
+
+# train:
+#   epochs:
+#   batch_size:
+#   lr:
+
+# eval:
+#   metrics: []
